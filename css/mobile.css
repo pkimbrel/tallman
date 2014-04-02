@@ -1,0 +1,5 @@
+* { font-family: georgia,serif; color: black; }
+h1 { text-indent: -9999px; width: 285px; height: 280px; background: url(../images/logo290.png) no-repeat; }
+#header, #page, #footer { width: 285px; margin: 0 auto; }
+#header, #footer { text-align: center; }
+#page { text-align: left; font-size: 6pt; }

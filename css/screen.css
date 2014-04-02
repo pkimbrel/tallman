@@ -1,0 +1,27 @@
+* {
+    font-family: georgia, serif;
+    color: black;
+}
+h1 {
+    text-indent: -9999px;
+    width: 290px;
+    height: 285px;
+    background: url(../images/logo290.png) no-repeat;
+    margin: 0 auto;
+}
+#header,
+#page,
+#footer {
+    width: 750px;
+    margin: 0 auto;
+}
+#header,
+#footer {
+    text-align: center;
+}
+#page {
+    text-align: left;
+}
+sup {
+    font-size: .6em;
+}
