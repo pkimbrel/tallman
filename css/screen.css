@@ -2,6 +2,9 @@
     font-family: georgia, serif;
     color: black;
 }
+a {
+    color: #28f;
+}
 h1 {
     text-indent: -9999px;
     width: 290px;
